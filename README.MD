@@ -16,6 +16,7 @@ Tools: Python, Pandas, Scikit-learn.
 These will be used to perform data cleaning, model training, and evaluation.
 
 4. Key Steps in the Project
+
 Model Training & Testing:
 Split the data into training and testing sets.
 Train multiple regression models (SVR, Decision Tree, Random Forest, Gradient Boosting, Bayesian, KNN).
