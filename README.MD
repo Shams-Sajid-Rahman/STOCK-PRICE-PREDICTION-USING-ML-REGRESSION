@@ -32,6 +32,6 @@ The dataset will include historical stock data:
 ## 6. Deliverables
 - Code: Well-documented Python notebooks containing the necessary functions and steps.
 - Report:
-- Dataset description and model comparison.
-- Visualizations of predictions versus actual stock prices.
-- Analysis of the best-performing model.
+  - Dataset description and model comparison.
+  - Visualizations of predictions versus actual stock prices.
+  - Analysis of the best-performing model.
